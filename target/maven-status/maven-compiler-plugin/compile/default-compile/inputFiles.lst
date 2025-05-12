@@ -1,0 +1,17 @@
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\owner\controller\OwnerController.java
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\owner\dto\OwnerCreateDTO.java
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\owner\dto\OwnerResponseDTO.java
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\owner\dto\OwnerUpdateDTO.java
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\owner\model\Owner.java
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\owner\repository\IOwnerRepository.java
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\owner\service\IOwnerService.java
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\owner\service\OwnerService.java
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\pet\controller\PetController.java
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\pet\dto\PetCreateDTO.java
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\pet\dto\PetResponseDTO.java
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\pet\dto\PetUpdateDTO.java
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\pet\model\Pet.java
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\pet\repository\IPetRepository.java
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\pet\service\IPetService.java
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\pet\service\PetService.java
+C:\Users\Paabl\Desktop\CURSOS\SpringBoot\Proyectos\test\src\main\java\com\mochanomods\test\TestApplication.java

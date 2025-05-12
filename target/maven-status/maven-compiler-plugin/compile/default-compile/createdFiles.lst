@@ -1,0 +1,17 @@
+com\mochanomods\test\pet\controller\PetController.class
+com\mochanomods\test\owner\dto\OwnerCreateDTO.class
+com\mochanomods\test\owner\model\Owner.class
+com\mochanomods\test\owner\service\OwnerService.class
+com\mochanomods\test\pet\dto\PetUpdateDTO.class
+com\mochanomods\test\pet\repository\IPetRepository.class
+com\mochanomods\test\TestApplication.class
+com\mochanomods\test\owner\controller\OwnerController.class
+com\mochanomods\test\owner\service\IOwnerService.class
+com\mochanomods\test\owner\dto\OwnerResponseDTO.class
+com\mochanomods\test\owner\dto\OwnerUpdateDTO.class
+com\mochanomods\test\pet\service\IPetService.class
+com\mochanomods\test\pet\dto\PetCreateDTO.class
+com\mochanomods\test\pet\service\PetService.class
+com\mochanomods\test\pet\dto\PetResponseDTO.class
+com\mochanomods\test\pet\model\Pet.class
+com\mochanomods\test\owner\repository\IOwnerRepository.class
